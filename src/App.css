@@ -1,5 +1,8 @@
-.App {
+.form {
   text-align: center;
+  width: 75%;
+  margin-inline: auto;
+  margin-block: 5rem;
 }
 
 .App-logo {
